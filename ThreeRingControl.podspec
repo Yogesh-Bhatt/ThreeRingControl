@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 	s.platform     = :ios, "10.0"
 
   # s.ios.deployment_target = “10.0”
-  s.source = { :git => 'https://github.com/Yogesh-Bhatt/ThreeRingControl.git', :tag => "1.0.0"}
+  s.source = { :git => 'https://github.com/Yogesh-Bhatt/ThreeRingControl.git', :tag => "1.1.0"}
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
